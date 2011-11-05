@@ -18,6 +18,7 @@ end
 
 gem 'jquery-rails'
 gem 'spine-rails'
+gem 'eco'
 
 group :test do
   # Pretty printed test output
