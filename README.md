@@ -1,4 +1,4 @@
-Note: this is a transcript of the [screencast]: http://spinejs.com/pages/screencasts (Spine & Rails integration in 7 minutes). I just transcribed it. The screencast was created by Alex MacCaw (maccman).
+Note: this is a transcript of the [screencast](http://spinejs.com/pages/screencasts "Spine & Rails integration in 7 minutes"). I just transcribed it. The screencast was created by Alex MacCaw (maccman).
 
 ---
 The first step is to generate our rails application.
