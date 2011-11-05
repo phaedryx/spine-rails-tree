@@ -125,7 +125,7 @@ _adds the following to app/views/posts/index.html.erb_
     
     <script type="text/javascript" charset="utf-8">
       jQuery(function(){
-        new App({el: $('app')});
+        new App({el: $('#app')});
       });
     </script>
 
